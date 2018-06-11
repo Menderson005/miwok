@@ -24,7 +24,45 @@
 
     <!-- Category name for the vocabulary words for numbers [CHAR LIMIT=20] -->
     <string name="category_numbers">Numbers</string>
-
+    <string name="english_one">One</string>
+    <string name="english_two">Two</string>
+    <string name="english_three">Three</string>
+    <string name="english_four">Four</string>
+    <string name="english_five">Five</string>
+    <string name="english_six">Six</string>
+    <string name="english_seven">Seven</string>
+    <string name="english_eight">Eight</string>
+    <string name="english_nine">Nine</string>
+    <string name="english_ten">Ten</string>
     <!-- Category name for the vocabulary words for family members [CHAR LIMIT=20] -->
     <string name="category_family">Family Members</string>
+    <string name="phrase_Where">Where are you going?</string>
+    <string name="phrase_Where_Mi">minto wuksus</string>
+    <string name="phrase_name">What is your name?</string>
+    <string name="phrase_NameMi">tinnә oyaase\'nә</string>
+    <string name="phrase_MyName">My name is…</string>
+    <string name="phrase_MyNameMi">oyaaset…</string>
+    <string name="phrase_Feeling">How are you feeling?</string>
+    <string name="phrase_FeelingMi">michәksәs?</string>
+    <string name="phrase_Good">I\'m feeling good</string>
+    <string name="phrase_GoodMi">kuchi achit</string>
+    <string name="phrase_Coming">Are you coming?</string>
+    <string name="phrase_ComingMi">әәnәs\'aa?</string>
+    <string name="phrase_YesComing">Yes, I\'m coming.</string>
+    <string name="phrase_YesComingMi">hәә’ әәnәm</string>
+    <string name="phrase_ComingResponse">I\'m coming</string>
+    <string name="phrase_ComingResponseMi">әәnәm</string>
+    <string name="phrase_Go">Let\'s go.</string>
+    <string name="phrase_GoMi">yoowutis</string>
+    <string name="phrase_Here">Come here.</string>
+    <string name="phrase_HereMi">әnni\'nem</string>
+    <string name="family_father">father</string>
+    <string name="family_fatherMi">әpә</string>
+    <string name="family_Mother">mother</string>
+    <string name="family_MotherMi">әṭa</string>
+    <string name="family_Son">son</string>
+    <string name="family_SonMi">angsi</string>
+    <string name="family_Daughter">daughter</string>
+    <string name="family_DaughterMi">tune</string>
+
 </resources>
